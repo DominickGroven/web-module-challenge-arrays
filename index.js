@@ -159,7 +159,7 @@ function filterByWord(arr, flavorname) {
     }
 }
 
-filterByWord(originalFlavors, "Chocolate")
+console.log(filterByWord(originalFlavors, "Chocolate"))
 
 
 
